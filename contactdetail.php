@@ -18,7 +18,8 @@ include_once './header.php';
                         <div class="panel-body">
                             <div class="col-sm-12" style="background-color: #b9f6ca;">
                                 <div class="col-sm-6">
-                                    <h4><b>Peter Smith Rathnayaka</b></h4><br>
+
+                                    <h4><b>Peter Smith</b></h4><br>
                                     <p>Siemens AG</p>
                                     <p>Teststreet 1-99</p><br>
                                     <p>12345 Test City</p>
